@@ -1,4 +1,25 @@
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/bfd21c5c-c905-4b27-8a8b-6ab44a68cc98" />
+<p align="center">
+  <img src="./assets/iadados.png" width="700"/>
+</p>
 
-# GC_IA_Dados_2026
-Projetos desenvolvidos durante trajetória na trilha de IA e Dados, curso do Geração Caldeira de 2026
+---
+## Conquistas
+ <img src="./assets/badges.png" width="700"/>
+
+
+---
+## -  Conquistas
+Progressão: Ganhe conquistas ao ter presença e participação das aulas, completar exercicios e desafios. 
+
+Recompensas: Conquistas alem de serem lindas, podem ser usadas como vantagem no projeto final. 
+
+## - Cursos que Valem Conquistas :trophy:
+
+Além da presença, participação nas aulas e desafios, você pode ganhar **conquistas especiais** ao concluir cursos online recomendados.  
+
+Esses cursos não só vão turbinar seus conhecimentos, mas também vão render **badges exclusivas** que podem ser usadas como vantagem no projeto final.  
+
+:point_right: Faça o curso, conclua todas as etapas e mostre o certificado no Discord para garantir sua conquista.  
+
+### Cursos Disponíveis:
+- [💡 Trilha TIC em Trilhas - Análise de dados com Python](https://ticemtrilhas.org.br/trail/2fbdc1e1-2877-4d28-ad73-db456a7e7238)  
