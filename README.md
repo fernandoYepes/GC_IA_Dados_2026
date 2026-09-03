@@ -4,7 +4,7 @@
 
 ---
 ## Conquistas
- <img src="./assets/badges.png" width="700"/>
+ <img src="./conquistas/badges.png" width="700"/>
 
 
 ---
